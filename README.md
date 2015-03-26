@@ -2,8 +2,8 @@
 
 An AngularJS filter/directive for  converting text into emoticons, embedding videos (youtube/vimeo/mp4,ogg), audio, pdf, and highlighting code syntax in an ordinary text string. .
 
-**This repo has been shifted to [http://github.com/ngEmbed](http://github.com/ngEmbed) and will be developed there. It has a lot lot of additional features.
-No new features will be added in this repo. Only bug fixes . So you are advised to use [ngEmbed](http://github.com/ngEmbed)**
+**This repo has been shifted to [http://github.com/ritz078/ngEmbed](http://github.com/ritz078/ngEmbed) and will be developed there. It has a lot lot of additional features.
+No new features will be added in this repo. Only bug fixes . So you are advised to use [ngEmbed](http://github.com/ritz078/ngEmbed)**
 
 **PS : The jquery version of this is [embed-js](http://github.com/embed-js)**
 
