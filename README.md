@@ -5,7 +5,7 @@ An AngularJS filter/directive for  converting text into emoticons, embedding vid
 **This repo has been shifted to [http://github.com/ritz078/ngEmbed](http://github.com/ritz078/ngEmbed) and will be developed there. It has a lot lot of additional features.
 No new features will be added in this repo. Only bug fixes . So you are advised to use [ngEmbed](http://github.com/ritz078/ngEmbed)**
 
-**PS : The jquery version of this is [embed-js](http://github.com/embed-js)**
+**PS : The jquery version of this is [embed-js](http://github.com/ritz078/embed-js)**
 
 [![Join the chat at https://gitter.im/ritz078/ngEmoticons](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ritz078/ngEmoticons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
