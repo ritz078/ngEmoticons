@@ -2,12 +2,7 @@
   "name": "ng-emoticons",
   "version": "2.1.0",
   "description": "An AngularJS filter to convert text into emoticons.",
-  "main": [
-    "./src/ng-emoticons.js",
-    "./src/ng-emoticons.css",
-    "./fonts/*",
-    "./images/*"
-  ],
+  "main": "./src/ng-emoticons.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
